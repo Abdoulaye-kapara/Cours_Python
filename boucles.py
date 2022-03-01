@@ -47,6 +47,7 @@ for ligne in range(1, n+1):
     for colonne in range(1, ligne+1):
         print("*", end=" ")
     print("")
+print("merci pour d'avoi visionner cette page ")
 
 
 
